@@ -1,0 +1,28 @@
+input{offset
+  margin-bottom: 7px;
+  width: 30%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+
+body {
+  text-align: center;
+  border: 2px solid #D7C589;
+  margin: 20px;
+  padding: 20px;
+  font-family: "Courier New"
+}
+
+button {botonCifrar
+  background-color: #4CAF50;
+  border-radius: 8px;
+  color: grey;
+  padding: 10px 28px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  margin: 3px 1px;
+  cursor: pointer;
+
+}
