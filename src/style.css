@@ -1,23 +1,37 @@
-input{offset
+input{
   margin-bottom: 7px;
-  width: 30%;
+  width: 25%;
   padding: 10px;
-  box-sizing: border-box;
   border: 1px solid #ccc;
+  right: 10px;
+  border-style: 1px solid black;
+
 }
 
+/*fondo*/
 body {
-  text-align: center;
-  border: 2px solid #D7C589;
-  margin: 20px;
-  padding: 20px;
-  font-family: "Courier New"
+  background: url("https://designcontest-uk-designcontest.netdna-ssl.com/data/contests/95106/entries/306c04986a5a27ea.png"); opacity: ;
+  background-size: cover;
+  position: relative;
+  height: 1000px;
+  padding: 100px;
+  font-family: "Courier New";
+  
 }
 
-button {botonCifrar
-  background-color: #4CAF50;
-  border-radius: 8px;
-  color: grey;
+/*Titulo*/
+h1 {
+  font-size: 50px;
+
+}
+  
+  
+
+/*botones*/
+button {
+  background-color: rgb(42, 206, 48);
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
   padding: 10px 28px;
   text-align: center;
   display: inline-block;
@@ -25,4 +39,10 @@ button {botonCifrar
   margin: 3px 1px;
   cursor: pointer;
 
+}
+
+box {
+  margin: 10px;
+  border: darkblue;
+  border-radius: 10px;
 }
